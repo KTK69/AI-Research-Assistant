@@ -1,0 +1,38 @@
+2025-06-22 20:39:53,021 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:40:51,706 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:41:05,321 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:41:16,499 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:42:03,076 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 20:43:25,891 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 20:43:59,301 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:05,035 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:10,359 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:20,438 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:25,812 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:31,548 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:42,119 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:47,478 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:53,246 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:45:59,378 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:46:04,723 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:46:10,482 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:03:45,337 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 21:04:32,746 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:04:32,995 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 21:05:02,099 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:05:07,824 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:05:13,606 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:09:23,327 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:09:53,250 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:09:59,026 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:10:04,817 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:33:00,571 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 21:34:00,698 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:34:00,863 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 21:42:04,239 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 21:43:23,063 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:47:26,212 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 22:34:11,682 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 22:35:07,504 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 22:35:54,515 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 22:35:54,772 - chromadb.api.segment - INFO - Collection langchain is not created.
