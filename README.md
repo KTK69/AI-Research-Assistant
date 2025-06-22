@@ -1,6 +1,5 @@
 # 🚀 AI Research Assistant - Intelligent Document Analysis
 
-![AI Research Assistant Banner](https://via.placeholder.com/1200x400/0F172A/FFFFFF?text=AI+Research+Assistant+-+Intelligent+Document+Analysis)
 
 The **AI Research Assistant** is a cutting-edge platform that transforms how you interact with academic documents and research papers. Powered by **Google's Gemini AI**, this application allows you to upload PDF documents and ask complex questions to extract valuable insights using advanced **Retrieval-Augmented Generation (RAG)** technology. Featuring a stunning **3D UI** with immersive visual effects, it revolutionizes document analysis into an engaging and efficient experience.
 
